@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imdb-react-webapp/static/css/main.870f9bd7.css",
-    "main.js": "/imdb-react-webapp/static/js/main.de742b85.js",
+    "main.js": "/imdb-react-webapp/static/js/main.40e22ead.js",
     "index.html": "/imdb-react-webapp/index.html",
     "main.870f9bd7.css.map": "/imdb-react-webapp/static/css/main.870f9bd7.css.map",
-    "main.de742b85.js.map": "/imdb-react-webapp/static/js/main.de742b85.js.map"
+    "main.40e22ead.js.map": "/imdb-react-webapp/static/js/main.40e22ead.js.map"
   },
   "entrypoints": [
     "static/css/main.870f9bd7.css",
-    "static/js/main.de742b85.js"
+    "static/js/main.40e22ead.js"
   ]
 }
